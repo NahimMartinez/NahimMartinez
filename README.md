@@ -5,15 +5,7 @@ Soy un estudiante de Licenciatura en Sistemas de 21 años, de Corrientes Capital
 ## Sobre mí
 
 - 🔭 Actualmente estoy trabajando en mejorar mis habilidades de programación.
-- 🌱 Estoy aprendiendo **Java** y **Trabajo en equipo con Git y GitHub**.
-- 👯 Estoy buscando colaborar en proyectos de código abierto.
 - 📫 Puedes contactarme en [nahimmartinez03@gmail.com] o seguirme en [Nahim Martinez](https://www.linkedin.com/in/nahim-martinez-b6728b288/)
-
-## Habilidades
-
-- **Lenguajes de programación**: Java, C, Lisp.
-- **Herramientas**: Git, GitHub, Visual Studio Code.
-- **Bases de datos**: Aprendiendo...
 
 ## Contacto
 
