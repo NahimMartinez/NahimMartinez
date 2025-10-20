@@ -1,6 +1,6 @@
 # Hola, soy Nahim Martinez 👋
 
-Soy un estudiante de Licenciatura en Sistemas de 21 años, de Corrientes Capital, Argentina. Apasionado por la tecnología y la programación, siempre busco aprender más y compartir lo que sé.
+Soy un estudiante de Licenciatura en Sistemas de 22 años, de Corrientes Capital, Argentina. Apasionado por la tecnología y la programación, siempre busco aprender más y compartir lo que sé.
 
 ## Sobre mí
 
